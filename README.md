@@ -32,5 +32,5 @@ This calculator can be hosted for free using:
 - Netlify (Drag-and-drop hosting)
 - Vercel (Frontend-focused hosting)
 
-
+Live Deno : https://calculatordrs.netlify.app/
 
